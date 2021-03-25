@@ -17,6 +17,9 @@ In progress...
 [Alacritty](https://github.com/alacritty/alacritty/)
 `brew install --cask alacritty`
 
+[Tmux](https://tmux.github.io/)
+`brew install tmux`
+
 [Starship](https://starship.rs)
 `brew install starship`
 
@@ -67,3 +70,10 @@ In progress...
 
 [Keka](https://www.keka.io/)
 `brew install --cask keka`
+___
+- [x] Add base list of the programs
+- [ ] Add tmux config
+- [ ] Add fish config
+- [ ] Add alacritty config
+- [ ] Add Neovim config
+- [ ] Add bash script for quick install
