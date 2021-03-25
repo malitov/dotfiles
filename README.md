@@ -55,3 +55,5 @@ ___
 - [ ] Add alacritty config
 - [ ] Add Neovim config
 - [ ] Add bash script for quick install
+___
+https://github.com/tmux-plugins/tpm
