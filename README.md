@@ -48,6 +48,10 @@ In progress...
 `brew install --cask itsycal`
 - [Keka](https://www.keka.io/)
 `brew install --cask keka`
+- [ Sync](https://www.sync.com/)
+`brew install --cask sync`
+- [Google Backup And Sync](https://photos.google.com/apps)
+`brew install --cask google-photos-backup-and-sync`
 ___
 - [x] Add base list of the programs
 - [ ] Add tmux config
