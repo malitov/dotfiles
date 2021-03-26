@@ -4,6 +4,8 @@ In progress...
 
 - [Brew](https://brew.sh/)
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- [ KeePassXC](https://keepassxc.org/)
+`brew install --cask keepassxc`
 - [Git](https://git-scm.com)
 `brew install git`
 - [Fish](https://fishshell.com)
