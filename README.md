@@ -1,4 +1,4 @@
-# dot
+# dotfiles
 
 In progress...
 
