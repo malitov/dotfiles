@@ -22,6 +22,12 @@ In progress...
 `brew install bat`
 - [Exa](https://the.exa.website)
 `brew install exa`
+- [Ripgrep](https://github.com/BurntSushi/ripgrep)
+`brew install ripgrep`
+- [fd](https://github.com/sharkdp/fd)
+`brew install fd`
+- [tldr](https://tldr.sh/)
+`brew install tldr`
 - [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) 
 `brew install --cask mouse-fix`
 - [Obsidian](https://obsidian.md/)
