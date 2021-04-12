@@ -26,6 +26,8 @@ In progress...
 `brew install ripgrep`
 - [fd](https://github.com/sharkdp/fd)
 `brew install fd`
+- [fzf](https://github.com/junegunn/fzf)
+`brew install fzf`
 - [tldr](https://tldr.sh/)
 `brew install tldr`
 - [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) 
