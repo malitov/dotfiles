@@ -28,6 +28,8 @@ In progress...
 `brew install fd`
 - [fzf](https://github.com/junegunn/fzf)
 `brew install fzf`
+- [n](https://github.com/tj/n)
+`brew install n`
 - [tldr](https://tldr.sh/)
 `brew install tldr`
 - [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) 
