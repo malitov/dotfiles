@@ -62,6 +62,8 @@ In progress...
 `brew install --cask keka`
 - [Iina](https://iina.io/)
 `brew install --cask iina`
+- [Kap](https://getkap.co/)
+`brew install --cask kap`
 ___
 - [x] Add base list of the programs
 - [ ] Add tmux config
