@@ -64,6 +64,8 @@ In progress...
 `brew install --cask iina`
 - [Kap](https://getkap.co/)
 `brew install --cask kap`
+- [QLVideo](https://github.com/Marginal/QLVideo)
+`brew install --cask qlimagesize mdimagesizemdimporter`
 ___
 - [x] Add base list of the programs
 - [ ] Add tmux config
