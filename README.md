@@ -62,6 +62,8 @@ In progress...
 `brew install --cask keka`
 - [Iina](https://iina.io/)
 `brew install --cask iina`
+- [Insomnia](https://insomnia.rest/)
+`brew install --cask insomnia`
 - [Kap](https://getkap.co/)
 `brew install --cask kap`
 - [QLVideo](https://github.com/Marginal/QLVideo)
